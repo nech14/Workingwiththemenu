@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
         return configuration.locales.get(0).language
     }
 
-    
+
     fun updateLocale(lan:String){
 
         val locale = Locale(lan)
