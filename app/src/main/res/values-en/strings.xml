@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Working with the menu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choice">Выбор</string>
+    <string name="main">Main:</string>
+    <string name="wind">Wind:</string>
+    <string name="temp">temp</string>
+    <string name="speed">speed</string>
+    <string name="deg">deg</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="descriptionweather">descriptionWeather</string>
+    <string name="tempdata">tempData</string>
+    <string name="pressuredata">pressureData</string>
+    <string name="humiditydata">humidityData</string>
+    <string name="speeddata">speedData</string>
+    <string name="degdata">degData</string>
+    <string-array name="languages">
+        <item>ru</item>
+        <item>en</item>
+    </string-array>
+</resources>
